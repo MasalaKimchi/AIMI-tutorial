@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+AIMI-Tutorial: Your Gateway to Medical Imaging AI. This repository is meticulously crafted to empower students with a foundational understanding of Artificial Intelligence (Machine Learning & Deep Learning) specifically tailored for medical imaging. We provide beginner-friendly Jupyter Notebooks designed to guide you through core Python concepts, essential AI algorithms, and their practical application in healthcare. Each notebook features crystal-clear explanations, dynamic visual aids to illustrate complex ideas, and extensive inline comments to demystify the code. Our aim is to build a robust, interactive learning environment that makes complex topics accessible and engaging for those fairly new to the field, fostering hands-on learning and practical skill development.
