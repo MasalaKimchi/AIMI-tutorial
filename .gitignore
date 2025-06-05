@@ -1,1 +1,16 @@
+# Virtual Environment
 venv/
+
+# Data directories
+notebooks/**/data/
+**/data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+.env
