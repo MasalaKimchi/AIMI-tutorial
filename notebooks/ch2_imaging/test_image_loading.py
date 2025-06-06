@@ -185,6 +185,11 @@ if __name__ == "__main__":
     dicom_dir = data_dir / 'example-dicom-structural/dicoms'
     nifti_file = data_dir / 'example-dicom-structural/structural.nii.gz'
 
+    if not dicom_dir.exists() or not nifti_file.exists():
+        from nibabel.testing import data_path as nib_test_data
+        dicom_dir = Path(nib_test_data)
+        nifti_file = Path(nib_test_data) / 'example4d.nii.gz'
+
     print(f"DICOM directory exists: {dicom_dir.exists()}")
     print(f"NIfTI file exists: {nifti_file.exists()}")
 
