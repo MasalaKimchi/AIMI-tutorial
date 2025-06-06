@@ -19,7 +19,7 @@ The chapter includes hands-on exercises and examples using real medical imaging 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/AIMI-tutorial.git
+git clone https://github.com/<your-username>/AIMI-tutorial.git
 cd AIMI-tutorial
 ```
 
