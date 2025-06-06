@@ -6,4 +6,5 @@ pillow>=10.0.0
 scikit-image>=0.22.0  # For advanced image processing
 jupyter>=1.0.0        # For running notebooks
 SimpleITK>=2.3.0      # For medical image processing
-seaborn>=0.13.0       # For enhanced visualizations 
+seaborn>=0.13.0       # For enhanced visualizations
+plotly>=5.18.0        # For interactive 3D visualizations 
